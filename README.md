@@ -76,14 +76,4 @@ All SQL queries for the above are included in Queries.sql.
 
 ---
 
-## Repository Structure  
 
-```
-
-McCafe-SQL-Data-Analysis/
-|
-|-- McCafe_Database.sql
-|-- Queries.sql
-|-- README.md
-
-```
